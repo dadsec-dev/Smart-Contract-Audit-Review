@@ -1,6 +1,6 @@
 # Smart Contract Review 
 ## Task: Aavegotchi RaffleContract 
-[Link To Task](https://github.com/aavegotchi/raffle/blob/main/contracts/RafflesContract.sol)
+[Link To Contract](https://github.com/aavegotchi/raffle/blob/main/contracts/RafflesContract.sol)
 
 *Introduction: This is basically a raffle smart contract with random number generation using the Chainlink VRF (Verifiable Random Function) service, the contract allows participants to enter a rafle by providing an ERC1155 tokens as tickets.*
 
